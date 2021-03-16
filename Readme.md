@@ -44,4 +44,4 @@ Note : If there is error of permission denied add sudo at start of instruction c
 `use pucsdStudents`: This tells that we want to use datbase pucsdStudents.
 
 ### To see the content of the table 'StudentData':
-`select * from studentData;` : Inorder to view all the table.
+`select * from studentData;` : Inorder to view all the table. 
