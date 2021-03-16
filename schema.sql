@@ -1,5 +1,6 @@
 DROP TABLE IF EXISTS studentData;
 
+
 CREATE TABLE  studentData
 (
 Name char(25),
@@ -8,6 +9,7 @@ Address varchar(40),
 Mobile varchar(10),
 PAN_Number varchar(10)
 );
+
 
 INSERT INTO studentData VALUES('Sunny','1043','Deolali Pravara','123456789','ABCPU123A');
 INSERT INTO studentData VALUES('Suresh','1023','Sangamner','123654789','ABDPA122B');
